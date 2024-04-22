@@ -129,7 +129,7 @@ namespace SpaceHaven_Save_Editor.References
             {176, "Chemicals"},
             {177, "Fabrics"},
             {178, "Hyperfuel"},
-            {179, "Processed Food/Verarbeitete Lebensmittel"},
+            {179, "Processed Food/Verarbeitet Lebensmittel"},
             {706, "Fruits"},
             {707, "Artificial Meat/Artifikal meat"},
             {712, "Space Food"},
